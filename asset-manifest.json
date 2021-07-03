@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/games1/static/css/main.3b7fb9e2.chunk.css",
+    "main.js": "/games1/static/js/main.a085723c.chunk.js",
+    "main.js.map": "/games1/static/js/main.a085723c.chunk.js.map",
+    "runtime-main.js": "/games1/static/js/runtime-main.21b20f84.js",
+    "runtime-main.js.map": "/games1/static/js/runtime-main.21b20f84.js.map",
+    "static/js/2.a79c146d.chunk.js": "/games1/static/js/2.a79c146d.chunk.js",
+    "static/js/2.a79c146d.chunk.js.map": "/games1/static/js/2.a79c146d.chunk.js.map",
+    "index.html": "/games1/index.html",
+    "precache-manifest.9d581f53eee7ec34a901b747b837b4fb.js": "/games1/precache-manifest.9d581f53eee7ec34a901b747b837b4fb.js",
+    "service-worker.js": "/games1/service-worker.js",
+    "static/css/main.3b7fb9e2.chunk.css.map": "/games1/static/css/main.3b7fb9e2.chunk.css.map",
+    "static/js/2.a79c146d.chunk.js.LICENSE": "/games1/static/js/2.a79c146d.chunk.js.LICENSE",
+    "static/media/App.css": "/games1/static/media/walls.b102b800.jpg",
+    "static/media/ZombiePreview.css": "/games1/static/media/zombierun.08087132.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21b20f84.js",
+    "static/js/2.a79c146d.chunk.js",
+    "static/css/main.3b7fb9e2.chunk.css",
+    "static/js/main.a085723c.chunk.js"
+  ]
+}
